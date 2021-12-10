@@ -1,0 +1,32 @@
+h1 {
+  font-size: 200px;
+  color: red;
+}
+
+img:hover {
+  background-color: gold;
+}
+
+/***************************************Class selector****************/
+.bacon {
+  background-color: red;
+}
+
+.broccoli {
+  background-color: green;
+  height: 155px;
+}
+
+/*************************************ID Selector****************/
+#heading {
+  color: blue;
+}
+
+.circular {
+  border-radius: 100%;
+}
+/*
+#heading:hover {
+  font-style: italic;
+}
+*/
